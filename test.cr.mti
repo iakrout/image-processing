@@ -1,0 +1,242 @@
+C:/Users/PC/Desktop/pfa/sobel_filter.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/sobel_filter.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Loading package pgm
+-- Compiling entity sobel_filter
+-- Compiling architecture sobel_filter_arch of sobel_filter
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/shift_reg_sipo.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/shift_reg_sipo.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package pgm
+-- Compiling entity shift_reg_sipo
+-- Compiling architecture shift_reg_sipo_arch of shift_reg_sipo
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/threshold.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/threshold.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity threshold
+-- Compiling architecture threshold_arch of threshold
+
+} {} {}} C:/Users/PC/Desktop/pfa/pgm.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/pgm.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Compiling package pgm
+-- Loading package TEXTIO
+-- Loading package libv
+-- Compiling package body pgm
+-- Loading package pgm
+
+} {} {}} C:/Users/PC/Desktop/pfa/pgm_trt.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/pgm_trt.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity pgm_trt
+-- Compiling architecture trt_arch of pgm_trt
+
+} {} {}} C:/Users/PC/Desktop/pfa/libv.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/libv.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Compiling package libv
+-- Compiling package body libv
+-- Loading package libv
+-- Compiling entity tb_libv
+-- Loading package libv
+-- Compiling architecture test of tb_libv
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/shift_reg_siso.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/shift_reg_siso.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package pgm
+-- Compiling entity shift_reg_siso
+-- Compiling architecture shift_reg_siso_arch of shift_reg_siso
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/hist.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/hist.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity hist
+-- Compiling architecture hist_arch of hist
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/tb_pgm.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/tb_pgm.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package libv
+-- Loading package pgm
+-- Compiling entity tb_pgm
+-- Compiling architecture test of tb_pgm
+
+} {} {}} C:/Users/PC/Desktop/pfa/D_FF.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/D_FF.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package pgm
+-- Compiling entity D_FF
+-- Compiling architecture D_FF_arch of D_FF
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/blur_filter.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/blur_filter.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity blur_filter
+-- Compiling architecture blur_filter_arch of blur_filter
+
+} {} {}} C:/Users/PC/Desktop/pfa/hist.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/hist.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity hist
+-- Compiling architecture hist_arch of hist
+
+} {} {}} C:/Users/PC/Desktop/pfa/shift_reg_siso.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/shift_reg_siso.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package pgm
+-- Compiling entity shift_reg_siso
+-- Compiling architecture shift_reg_siso_arch of shift_reg_siso
+
+} {} {}} C:/Users/PC/Desktop/pfa/blur_filter.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/blur_filter.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity blur_filter
+-- Compiling architecture blur_filter_arch of blur_filter
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/libv.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/libv.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Compiling package libv
+-- Compiling package body libv
+-- Loading package libv
+-- Compiling entity tb_libv
+-- Loading package libv
+-- Compiling architecture test of tb_libv
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/pgm_trt.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/pgm_trt.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity pgm_trt
+-- Compiling architecture trt_arch of pgm_trt
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/D_FF.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/D_FF.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package pgm
+-- Compiling entity D_FF
+-- Compiling architecture D_FF_arch of D_FF
+
+} {} {}} C:/Users/PC/Desktop/pfa/threshold.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/threshold.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity threshold
+-- Compiling architecture threshold_arch of threshold
+
+} {} {}} C:/Users/PC/Desktop/pfa/shift_reg_sipo.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/shift_reg_sipo.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package pgm
+-- Compiling entity shift_reg_sipo
+-- Compiling architecture shift_reg_sipo_arch of shift_reg_sipo
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/sobel_filter.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/sobel_filter.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pgm
+-- Compiling entity sobel_filter
+-- Compiling architecture sobel_filter_arch of sobel_filter
+
+} {} {}} C:/Users/PC/Desktop/pfa/gauss_filter.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/gauss_filter.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Loading package pgm
+-- Compiling entity gauss_filter
+-- Compiling architecture gauss_filter_arch of gauss_filter
+
+} {} {}} C:/Users/PC/Desktop/pfa/tb_pgm.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/PC/Desktop/pfa/tb_pgm.vhd
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package libv
+-- Loading package pgm
+-- Compiling entity tb_pgm
+-- Compiling architecture test of tb_pgm
+
+} {} {}} {{C:/Users/PC/Desktop/Second test/pgm.vhd}} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/PC/Desktop/Second test/pgm.vhd}
+Model Technology ModelSim SE-64 vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Compiling package pgm
+-- Loading package TEXTIO
+-- Loading package libv
+-- Compiling package body pgm
+-- Loading package pgm
+
+} {} {}}

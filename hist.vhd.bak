@@ -1,0 +1,37 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+
+use work.pgm.all;
+
+entity hist is
+	port(
+	  pixinval: IN std_logic;
+		pixin: IN pixel;
+		pixinclk: IN std_logic;
+		hist_vect : OUT int_array
+	);
+end entity;
+
+architecture hist_arch of hist is
+--components
+
+--signals
+signal temp1,temp2 : int_array;
+begin
+hist_vect <= temp1;
+  process(pixinclk)
+    variable i,j: integer; 
+    begin
+      if(pixinclk'event and pixinclk='1')then
+        if(pixinval='1')then
+		
+ for j in 255 downto pixin loop
+           temp1(j)<= temp1(j)+1; -- fonction de répartition (histogram cumul)
+    end loop;
+        end if;
+      end if;
+  end process; 
+  
+end architecture hist_arch;
